@@ -70,3 +70,14 @@ C:\Users\JANUS\source\repos\EntityFrameworCoreDatabaseFirst\EntityFrameworCoreDa
 C:\Users\JANUS\source\repos\EntityFrameworCoreDatabaseFirst\EntityFrameworCoreDatabaseFirst\obj\Debug\net6.0\ref\EntityFrameworCoreDatabaseFirst.dll
 C:\Users\JANUS\source\repos\EntityFrameworCoreDatabaseFirst\EntityFrameworCoreDatabaseFirst\obj\Debug\net6.0\EntityFrameworCoreDatabaseFirst.pdb
 C:\Users\JANUS\source\repos\EntityFrameworCoreDatabaseFirst\EntityFrameworCoreDatabaseFirst\obj\Debug\net6.0\EntityFrameworCoreDatabaseFirst.genruntimeconfig.cache
+C:\Users\bessy\source\Git Hub\Capacitaci-n\EntityFrameworCoreDatabaseFirst\obj\Debug\net6.0\EntityFrameworCoreDatabaseFirst.csproj.AssemblyReference.cache
+C:\Users\bessy\source\Git Hub\Capacitaci-n\EntityFrameworCoreDatabaseFirst\obj\Debug\net6.0\EntityFrameworCoreDatabaseFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bessy\source\Git Hub\Capacitaci-n\EntityFrameworCoreDatabaseFirst\obj\Debug\net6.0\EntityFrameworCoreDatabaseFirst.AssemblyInfoInputs.cache
+C:\Users\bessy\source\Git Hub\Capacitaci-n\EntityFrameworCoreDatabaseFirst\obj\Debug\net6.0\EntityFrameworCoreDatabaseFirst.AssemblyInfo.cs
+C:\Users\bessy\source\Git Hub\Capacitaci-n\EntityFrameworCoreDatabaseFirst\obj\Debug\net6.0\EntityFrameworCoreDatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\bessy\source\Git Hub\Capacitaci-n\EntityFrameworCoreDatabaseFirst\obj\Debug\net6.0\EntityFrameworCoreDatabaseFirst.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bessy\source\Git Hub\Capacitaci-n\EntityFrameworCoreDatabaseFirst\obj\Debug\net6.0\EntityFrameworCoreDatabaseFirst.RazorAssemblyInfo.cache
+C:\Users\bessy\source\Git Hub\Capacitaci-n\EntityFrameworCoreDatabaseFirst\obj\Debug\net6.0\EntityFrameworCoreDatabaseFirst.RazorAssemblyInfo.cs
+C:\Users\bessy\source\Git Hub\Capacitaci-n\EntityFrameworCoreDatabaseFirst\obj\Debug\net6.0\EntityFrameworCoreDatabaseFirst.dll
+C:\Users\bessy\source\Git Hub\Capacitaci-n\EntityFrameworCoreDatabaseFirst\obj\Debug\net6.0\ref\EntityFrameworCoreDatabaseFirst.dll
+C:\Users\bessy\source\Git Hub\Capacitaci-n\EntityFrameworCoreDatabaseFirst\obj\Debug\net6.0\EntityFrameworCoreDatabaseFirst.pdb

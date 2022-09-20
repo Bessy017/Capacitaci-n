@@ -1860,30 +1860,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JANUS\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\bessy\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JANUS\\source\\repos\\EntityFrameworCoreDatabaseFirst\\EntityFrameworCoreDatabaseFirst\\EntityFrameworCoreDatabaseFirst.csproj",
+      "projectUniqueName": "C:\\Users\\bessy\\source\\Git Hub\\Capacitaci-n\\EntityFrameworCoreDatabaseFirst\\EntityFrameworCoreDatabaseFirst.csproj",
       "projectName": "EntityFrameworCoreDatabaseFirst",
-      "projectPath": "C:\\Users\\JANUS\\source\\repos\\EntityFrameworCoreDatabaseFirst\\EntityFrameworCoreDatabaseFirst\\EntityFrameworCoreDatabaseFirst.csproj",
-      "packagesPath": "C:\\Users\\JANUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JANUS\\source\\repos\\EntityFrameworCoreDatabaseFirst\\EntityFrameworCoreDatabaseFirst\\obj\\",
+      "projectPath": "C:\\Users\\bessy\\source\\Git Hub\\Capacitaci-n\\EntityFrameworCoreDatabaseFirst\\EntityFrameworCoreDatabaseFirst.csproj",
+      "packagesPath": "C:\\Users\\bessy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bessy\\source\\Git Hub\\Capacitaci-n\\EntityFrameworCoreDatabaseFirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\JANUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bessy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -1941,7 +1936,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
